@@ -51,5 +51,5 @@ __kernel void gamma_transform(__global uchar * img_src,
 
 Left: input image; right: gamma corrected image `(gamma = 2.2)`
 
-<img src="assets/image-20230112195257505.png" alt="image-20230112195257505" style="zoom: 50%;" />
+<img src="assets/image-20230112195257505.png" alt="image-20230112195257505" style="zoom: 20%;" />
 
