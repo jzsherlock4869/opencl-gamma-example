@@ -20,7 +20,7 @@ sudo make install  ### default install path should be /usr/local/include/opencv4
 
 **structure of the code**
 
-```shell
+```
 ├── CMakeLists.txt      // settings for cmake
 ├── custom_opencl_kernels.cl        // custom-defined kernel for opencl
 ├── gamma_transform.cpp         // main function for gamma transform the image
